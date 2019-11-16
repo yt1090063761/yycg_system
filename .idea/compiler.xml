@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Util" />
+        <module name="yycg_main" />
+        <module name="yycg_sys" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="project" target="1.7" />
+      <module name="Util" target="1.5" />
+      <module name="yycg" target="1.7" />
+      <module name="yycg_main" target="1.5" />
+      <module name="yycg_sys" target="1.7" />
+      <module name="yycg_system" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
